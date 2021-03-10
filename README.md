@@ -28,4 +28,4 @@ The median tumor volume for mice on Infubinol is approx. 60 mm3 and the halves o
 
 There is a high correlation between the weight and average tumor volume of mice on Capomulin. Judging by the linear equation, as the number of weights increased so did the tumor volume. On average, the tumor of mice on Capomulin is less than the tumor of mice on any other drug regimen proving that there is a link between the body weight and the progression in tumor regardless of treatments
 
-[linear regression](https://github.com/Anumala89/matplotlib-challenge/blob/master/graphs/liner_regression.png)
+![linear regression](https://github.com/Anumala89/matplotlib-challenge/blob/master/graphs/liner_regression.png)
